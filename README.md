@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey! I'm Aiden 👋
 
-<!--
-**aidenyzeng/aidenyzeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[aidenzeng.ca](https://aidenzeng.ca), [linkedin](https://www.linkedin.com/in/aidenzeng/)
 
-Here are some ideas to get you started:
+Currently studying Engineering @ University of Waterloo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**A few things I've done**
+
+- **Growth @ Karat Financial**: helped grow a community of 2,000+ creators reaching 50M+ combined followers
+- **Winner @ BETA Camp**: built Preppin, an AI nutrition coach that got 10,000+ visits during launch week
+- **[Sideline](https://github.com/aidenyzeng/Sideline)**: sports companion that watches your screen and answers questions about the game in real time
+- **[aidenzeng.ca](https://github.com/aidenyzeng/aidenzeng)**: my site, with a jelly creature you can grab, stretch and wobble
+
+Outside of work, I competed nationally in badminton and spent a few years coaching the next generation.
+
+Looking for full-time and internship roles for 2027. Feel free to reach out at [aidenzeng927@gmail.com](mailto:aidenzeng927@gmail.com)
