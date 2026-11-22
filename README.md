@@ -7,9 +7,7 @@ Currently studying Engineering @ University of Waterloo.
 **A few things I've done**
 
 - **Growth @ Karat Financial**: helped grow a community of 2,000+ creators reaching 50M+ combined followers
-- **Winner @ BETA Camp**: built Preppin, an AI nutrition coach that got 10,000+ visits during launch week
-- **[Sideline](https://github.com/aidenyzeng/Sideline)**: sports companion that watches your screen and answers questions about the game in real time
-- **[aidenzeng.ca](https://github.com/aidenyzeng/aidenzeng)**: my site, with a jelly creature you can grab, stretch and wobble
+- **Winner @ BETA Camp**: built [Preppin](https://getpreppin.com), an AI nutrition coach that reached four figures in revenue, 50+ customers and 10,000+ visits during launch week, then won $10,000 in equity-free funding
 
 Outside of work, I competed nationally in badminton and spent a few years coaching the next generation.
 
