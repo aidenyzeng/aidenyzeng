@@ -1,4 +1,4 @@
-### Hey! I'm Aiden 👋
+### What's up, I'm Aiden
 
 [aidenzeng.ca](https://aidenzeng.ca), [linkedin](https://www.linkedin.com/in/aidenzeng/)
 
